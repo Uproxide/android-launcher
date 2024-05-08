@@ -12,9 +12,7 @@ jobs:
         config:
         - name: Release
           lower: release
-          
-        - name: Debug
-          lower: debug
+        
           
     runs-on: ubuntu-latest
 
